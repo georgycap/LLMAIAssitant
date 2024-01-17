@@ -1,0 +1,14 @@
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+pyngrok
+chromadb
+openai==0.28.1
+google-generativeai
